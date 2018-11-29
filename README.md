@@ -1,6 +1,5 @@
 # hello-world
-My name is Pessy Chinda. I have 2 Daughters namely Manuchim and Nhuomachim.
-I enjoy coding and science and Cyber Security and Forensics.
-This is just My Practice Repository
+My name is Pessy Chinda.
+I enjoy Coding, Science and Cyber Security and Forensics.
+This is just my practice repository
 Thanks,
-Pessy.
